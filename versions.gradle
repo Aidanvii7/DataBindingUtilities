@@ -1,0 +1,22 @@
+ext {
+    // Android
+    min_sdk_version = 16
+    target_sdk_version = 25
+    compile_sdk_version = 25
+    android_gradle_version  = "2.2.3"
+
+    build_tools_version  = "25.0.2"
+    android_support_version  = "25.0.1"
+    //retrolambda
+    retrolambda_version  = "3.3.0"
+    // AutoValue
+    auto_value_version = '1.4-rc1'
+    auto_value_parcel_ext_version = '0.2.5'
+    // Jetbrains
+    jetbrains_annotations_version = '13.0'
+    // Image loaders
+    glide_version = '3.7.0'
+
+    // Testing
+    junit_version = '4.12'
+}
